@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0 ;
+
+	overflow: hidden;
+
+	cursor: pointer;
+}
+canvas{
+	width: 100%;
+	height: 100%;
+
+	display: block;
+	background: url('https://cdnb.artstation.com/p/assets/images/images/018/861/861/large/finn-mccarthy-1000-samples-with-sun.jpg?1561007514');
+	background-position: center top;
+}
